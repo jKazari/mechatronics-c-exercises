@@ -1,1 +1,1 @@
-# mechatronics-c-exercises
+# Mechatronics C exercises
